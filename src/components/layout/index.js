@@ -1,4 +1,5 @@
 import Nav from '../header/nav'
+import Footer from '../footer'
 
 function Layout({children}) {
     return (

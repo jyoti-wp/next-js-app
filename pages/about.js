@@ -6,7 +6,7 @@ function About() {
         <Layout>
             <h1>
             About Page!
-      </h1>
+            </h1>
         </Layout>
     )
 }
