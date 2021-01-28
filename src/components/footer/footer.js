@@ -1,6 +1,6 @@
-import Footer from './footer'
+import MENU from './footer'
 
-function Menu() {
+function MENU() {
     return (
         <nav>
             <Link href="/">
@@ -17,4 +17,4 @@ function Menu() {
     )
 }
 
-export default Footer
+export default MENU
