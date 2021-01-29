@@ -1,20 +1,22 @@
-import MENU from './footer'
 
-function MENU() {
+
+function Footer() {
     return (
-        <nav>
-            <Link href="/">
-                <a>Privacy Policy</a>
-            </Link>
-            <Link href="/about">
-                <a>Get in touch</a>
-            </Link>
-            <Link href="/contact-us">
-                <a>Terms</a>
-            </Link>
-
-        </nav>
+        <div class="flex flex-wrap -mx-1 overflow-hidden">
+            <div class="my-1 px-1 w-full overflow-hidden sm:w-full xl:w-1/3">
+                 dummy text
+                {/* column Content */}
+            </div>
+            <div class="my-1 px-1 w-full overflow-hidden sm:w-full xl:w-1/3">
+            dummy text
+                {/* <!-- Column Content --> */}
+            </div>
+            <div class="my-1 px-1 w-full overflow-hidden sm:w-full xl:w-1/3">
+            dummy text
+                {/* <!-- Column Content --> */}
+            </div>
+        </div>
     )
 }
 
-export default MENU
+export default Footer
