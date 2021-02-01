@@ -1,12 +1,10 @@
-import Footer from '../src/components/footer'
+import Layout from "../src/components/layout"
 
 function Privacy() {
     return(
-        <Footer>
-            <h1>
-                Privacy Policy
-            </h1>
-        </Footer>
+        <Layout>
+            <h1>Privacy Policy</h1>
+        </Layout>
     )
 }
 
