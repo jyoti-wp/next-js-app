@@ -3,7 +3,7 @@ import Layout from "../src/components/layout";
 function Contact() {
     return (
         <Layout>
-            <h1>
+            <h1 className="text-align: center">
         Contact Page!
             </h1>
       <section className="text-gray-600 body-font relative">
