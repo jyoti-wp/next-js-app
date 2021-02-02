@@ -9,17 +9,17 @@ function Nav() {
                         <svg xmlns="/public/favicon.ico" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
                             <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
                         </svg>
-                        <span class="ml-3 text-xl">Nextjs App</span>
+                        <span class="ml-3 text-xl">Code With Jyoti</span>
                     </a>
                     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
                         <Link href="/home">
-                            <a class="mr-5 hover:text-gray-900">Home</a>
+                            <a class="mr-5 hover:text-gray-900">My Work</a>
                         </Link>
                         <Link href="/about">
-                            <a class="mr-5 hover:text-gray-900">About Us</a>
+                            <a class="mr-5 hover:text-gray-900">About Me</a>
                         </Link>
                         <Link href="/contact-us">
-                            <a class="mr-5 hover:text-gray-900">Contact Us</a>
+                            <a class="mr-5 hover:text-gray-900">Contact Me</a>
                         </Link>
                         <Link href="/blog">
                             <a class="mr-5 hover:text-gray-900">Blog</a>

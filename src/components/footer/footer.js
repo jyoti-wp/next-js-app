@@ -9,16 +9,16 @@ function Footer() {
                     <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
                     <nav className="list-none mb-10">
                     <li>
-                        <a className="text-gray-600 hover:text-gray-800">First Link</a>
+                        <a className="text-gray-600 hover:text-gray-800">My Work</a>
                     </li>
                     <li>
-                        <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+                        <a className="text-gray-600 hover:text-gray-800">About me</a>
                     </li>
                     <li>
-                        <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+                        <a className="text-gray-600 hover:text-gray-800">Block Pattern</a>
                     </li>
                     <li>
-                        <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                        <a className="text-gray-600 hover:text-gray-800">Contact Me</a>
                     </li>
                     </nav>
                 </div>
@@ -40,24 +40,7 @@ function Footer() {
                     </nav>
                 </div>
                 <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-                    <nav className="list-none mb-10">
-                    <li>
-                        <a className="text-gray-600 hover:text-gray-800">First Link</a>
-                    </li>
-                    <li>
-                        <a className="text-gray-600 hover:text-gray-800">Second Link</a>
-                    </li>
-                    <li>
-                        <a className="text-gray-600 hover:text-gray-800">Third Link</a>
-                    </li>
-                    <li>
-                        <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
-                    </li>
-                    </nav>
-                </div>
-                <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SUBSCRIBE</h2>
+                    <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Ask Away</h2>
                     <div className="flex xl:flex-nowrap md:flex-nowrap lg:flex-wrap flex-wrap justify-center items-end md:justify-start">
                     <div className="relative w-40 sm:w-auto xl:mr-4 lg:mr-0 sm:mr-4 mr-2">
                         <label for="footer-field" className="leading-7 text-sm text-gray-600">Placeholder</label>
@@ -75,7 +58,7 @@ function Footer() {
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-10 h-10 text-white p-2 bg-yellow-500 rounded-full" viewBox="0 0 24 24">
                     <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
                     </svg>
-                    <span className="ml-3 text-xl">Nextjs App</span>
+                    <span className="ml-3 text-xl">Code With Jyoti</span>
                 </a>
                 <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2020 Nextjs App —
                     <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@knyttneve</a>
