@@ -2,10 +2,9 @@ import Layout from "../src/components/layout";
 
 function Blog () {
     return (
-
-        <Layout>
-            <section class="text-gray-600 body-font">
-    <div class="container px-5 py-24 mx-auto">
+  <Layout>
+    <section class="text-gray-600 body-font">
+      <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/3">
         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
@@ -96,8 +95,8 @@ function Blog () {
       </div>
     </div>
   </div>
-</section>
-        </Layout>
+    </section>
+  </Layout>
 
     )
 }
