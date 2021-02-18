@@ -1,4 +1,4 @@
-
+import LINK from 'next/link';
 
 function Footer() {
     return (
