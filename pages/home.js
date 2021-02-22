@@ -1,8 +1,8 @@
 import Layout from '../src/components/layout';
 import LINK from 'next/link';
-import img from '../public/github.png';
+// import Image from '../public/github'; 
 
-console.log(Logo);
+// console.log(Image); 
 
 function Home () {
     return (
@@ -12,7 +12,7 @@ function Home () {
                     <div className="flex flex-wrap -mx-4 -mb-10 text-center">
                         <div className="sm:w-1/2 mb-10 px-4">
                             <div className="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" className="object-cover object-center h-full w-full" src={img} atl="GitHub"/>
+                            {/* <img alt="content" className="object-cover object-center h-full w-full" src={img} atl="GitHub"/> */}
                             </div>
                             <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">YouTube Channel</h2>
                             <p className="leading-relaxed text-base">Check my upcoming YouTube channel. Please subscribe and follow for more.</p>
